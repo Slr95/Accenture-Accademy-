@@ -1,0 +1,52 @@
+﻿@model SistemaWebEmpleados.Models.Empleado
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Detail</title>
+</head>
+<body>
+    <div>
+        <fieldset>
+            <legend>Empleado</legend>
+
+            <div class="display-label">
+                @Html.DisplayNameFor(model => model.Nombre)
+            </div>
+            <div class="display-field">
+                @Html.DisplayFor(model => model.Nombre)
+            </div>
+
+            <div class="display-label">
+                @Html.DisplayNameFor(model => model.Apellido)
+            </div>
+            <div class="display-field">
+                @Html.DisplayFor(model => model.Apellido)
+            </div>
+
+            <div class="display-label">
+                @Html.DisplayNameFor(model => model.DNI)
+            </div>
+            <div class="display-field">
+                @Html.DisplayFor(model => model.DNI)
+            </div>
+
+            <div class="display-label">
+                @Html.DisplayNameFor(model => model.Email)
+            </div>
+            <div class="display-field">
+                @Html.DisplayFor(model => model.Email)
+            </div>
+        </fieldset>
+        <p>
+            @Html.ActionLink("Back to List", "Index")
+        </p>
+    </div>
+</body>
+</html>

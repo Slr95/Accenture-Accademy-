@@ -1,0 +1,16 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\bin\Debug\WindowsAppAdonet.exe.config
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\bin\Debug\WindowsAppAdonet.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\bin\Debug\WindowsAppAdonet.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\obj\Debug\WindowsAppAdonet.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\obj\Debug\WindowsAppAdonet.Form1.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\obj\Debug\WindowsAppAdonet.Properties.Resources.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\obj\Debug\WindowsAppAdonet.csproj.GenerateResource.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\obj\Debug\WindowsAppAdonet.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\obj\Debug\WindowsAppAdonet.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\obj\Debug\WindowsAppAdonet.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\obj\Debug\WindowsAppAdonet.frmReader.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\bin\Debug\Datos.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\bin\Debug\Datos.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\bin\Debug\Datos.dll.config
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\obj\Debug\WindowsAppAdonet.csproj.CopyComplete
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\WindowsAppAdonet\obj\Debug\WindowsAppAdonet.frmDesconectado.resources

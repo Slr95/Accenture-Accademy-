@@ -1,0 +1,18 @@
+@font-face {
+    src: url('fuentes/MexicanTequila.ttf');
+    font-family: 'Mi Fuente';
+}
+
+@font-face {
+    src: url('fuentes/MexicanTequila-Italic.ttf');
+    font-family: 'Mi Fuente';
+    font-weight: bold;
+}
+
+h1 {
+    font-family:'Mi Fuente', Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 140px;
+    font-weight: normal;
+    /*font-weight:bold; */
+    font-style: italic;
+}

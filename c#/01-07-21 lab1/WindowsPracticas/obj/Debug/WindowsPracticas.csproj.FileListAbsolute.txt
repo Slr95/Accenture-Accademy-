@@ -1,0 +1,13 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 lab1\WindowsPracticas\obj\Debug\WindowsPracticas.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 lab1\WindowsPracticas\obj\Debug\WindowsPracticas.Form1.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 lab1\WindowsPracticas\obj\Debug\WindowsPracticas.Properties.Resources.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 lab1\WindowsPracticas\obj\Debug\WindowsPracticas.csproj.GenerateResource.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 lab1\WindowsPracticas\obj\Debug\WindowsPracticas.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 lab1\WindowsPracticas\bin\Debug\WindowsPracticas.exe.config
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 lab1\WindowsPracticas\bin\Debug\WindowsPracticas.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 lab1\WindowsPracticas\bin\Debug\WindowsPracticas.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 lab1\WindowsPracticas\bin\Debug\LibPracticaPolimorfismo.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 lab1\WindowsPracticas\bin\Debug\LibPracticaPolimorfismo.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 lab1\WindowsPracticas\obj\Debug\WindowsPracticas.csproj.CopyComplete
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 lab1\WindowsPracticas\obj\Debug\WindowsPracticas.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 lab1\WindowsPracticas\obj\Debug\WindowsPracticas.pdb

@@ -1,0 +1,17 @@
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\bin\Debug\WindowsAppADONET.exe.config
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\bin\Debug\WindowsAppADONET.exe
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\bin\Debug\WindowsAppADONET.pdb
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\obj\Debug\WindowsAppADONET.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\obj\Debug\WindowsAppADONET.Form1.resources
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\obj\Debug\WindowsAppADONET.Properties.Resources.resources
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\obj\Debug\WindowsAppADONET.csproj.GenerateResource.cache
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\obj\Debug\WindowsAppADONET.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\obj\Debug\WindowsAppADONET.exe
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\obj\Debug\WindowsAppADONET.pdb
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\obj\Debug\WindowsAppADONET.frmReader.resources
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\bin\Debug\Datos.dll
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\bin\Debug\Datos.pdb
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\bin\Debug\Datos.dll.config
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\obj\Debug\WindowsAppADONET.csproj.CopyComplete
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\obj\Debug\WindowsAppADONET.frmPublisher.resources
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\WindowsAppADONET\obj\Debug\WindowsAppADONET.North.resources

@@ -1,0 +1,7 @@
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\Datos\bin\Debug\Datos.dll.config
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\Datos\bin\Debug\Datos.dll
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\Datos\bin\Debug\Datos.pdb
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\Datos\obj\Debug\Datos.dll
+C:\Users\guill\Desktop\Academynet\05-07-2021\ejemploADONET\WindowsAppADONET\Datos\obj\Debug\Datos.pdb

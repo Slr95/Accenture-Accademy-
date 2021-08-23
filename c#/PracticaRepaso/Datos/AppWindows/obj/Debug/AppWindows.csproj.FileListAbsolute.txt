@@ -1,0 +1,14 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\bin\Debug\AppWindows.exe.config
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\bin\Debug\AppWindows.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\bin\Debug\AppWindows.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\bin\Debug\Datos.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\bin\Debug\Datos.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\bin\Debug\Datos.dll.config
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\obj\Debug\AppWindows.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\obj\Debug\AppWindows.Form1.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\obj\Debug\AppWindows.Properties.Resources.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\obj\Debug\AppWindows.csproj.GenerateResource.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\obj\Debug\AppWindows.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\obj\Debug\AppWindows.csproj.CopyComplete
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\obj\Debug\AppWindows.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\PracticaRepaso\Datos\AppWindows\obj\Debug\AppWindows.pdb

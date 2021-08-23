@@ -1,0 +1,6 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\DatosBL\bin\Debug\DatosBL.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\DatosBL\bin\Debug\DatosBL.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\DatosBL\obj\Debug\DatosBL.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\DatosBL\obj\Debug\DatosBL.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\DatosBL\obj\Debug\DatosBL.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\DatosBL\obj\Debug\DatosBL.pdb

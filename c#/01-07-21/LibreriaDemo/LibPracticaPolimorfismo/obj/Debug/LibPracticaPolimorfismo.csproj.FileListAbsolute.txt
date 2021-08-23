@@ -1,0 +1,6 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21\LibreriaDemo\LibPracticaPolimorfismo\obj\Debug\LibPracticaPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21\LibreriaDemo\LibPracticaPolimorfismo\obj\Debug\LibPracticaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21\LibreriaDemo\LibPracticaPolimorfismo\bin\Debug\LibPracticaPolimorfismo.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21\LibreriaDemo\LibPracticaPolimorfismo\bin\Debug\LibPracticaPolimorfismo.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21\LibreriaDemo\LibPracticaPolimorfismo\obj\Debug\LibPracticaPolimorfismo.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21\LibreriaDemo\LibPracticaPolimorfismo\obj\Debug\LibPracticaPolimorfismo.pdb

@@ -1,0 +1,6 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\Entidades\bin\Debug\Entidades.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\Entidades\obj\Debug\Entidades.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache

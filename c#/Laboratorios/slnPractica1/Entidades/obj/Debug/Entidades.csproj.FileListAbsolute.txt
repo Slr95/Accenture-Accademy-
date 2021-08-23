@@ -1,0 +1,5 @@
+D:\Documentos\Accenture\4-POO C#\020721\Primero\slnPractica1\Entidades\bin\Debug\Entidades.dll
+D:\Documentos\Accenture\4-POO C#\020721\Primero\slnPractica1\Entidades\bin\Debug\Entidades.pdb
+D:\Documentos\Accenture\4-POO C#\020721\Primero\slnPractica1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Documentos\Accenture\4-POO C#\020721\Primero\slnPractica1\Entidades\obj\Debug\Entidades.dll
+D:\Documentos\Accenture\4-POO C#\020721\Primero\slnPractica1\Entidades\obj\Debug\Entidades.pdb

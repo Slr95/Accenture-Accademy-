@@ -1,0 +1,43 @@
+section {
+    border: 2px solid #789;
+    margin: 20px;
+}
+
+article {
+    border: 2px dotted #789;
+    margin: 20px;
+}
+
+p {
+    color: darkmagenta;
+}
+
+/* p descendentes de #secundaria */
+#secundaria p {
+    color: darkcyan;
+}
+
+/* p hijos de #secundaria */
+#secundaria > p {
+    font-weight: bold;
+    background-color: #222;
+}
+
+article p {
+    text-align: center;
+}
+
+#principal article p {
+    font-style: italic;
+    text-transform: uppercase;
+}
+/* p hermanos de h1 */
+h1~p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* p hermanos adyacentes de h2 */
+h2+p {
+    font-weight: bold;
+    font-size: 20px;
+}

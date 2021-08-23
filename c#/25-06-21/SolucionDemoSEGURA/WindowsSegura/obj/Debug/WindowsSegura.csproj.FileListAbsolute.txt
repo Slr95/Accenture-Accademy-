@@ -1,0 +1,13 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\WindowsSegura\bin\Debug\WindowsSegura.exe.config
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\WindowsSegura\bin\Debug\WindowsSegura.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\WindowsSegura\bin\Debug\WindowsSegura.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\WindowsSegura\obj\Debug\WindowsSegura.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\WindowsSegura\obj\Debug\WindowsSegura.Properties.Resources.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\WindowsSegura\obj\Debug\WindowsSegura.csproj.GenerateResource.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\WindowsSegura\obj\Debug\WindowsSegura.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\WindowsSegura\obj\Debug\WindowsSegura.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\WindowsSegura\obj\Debug\WindowsSegura.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\WindowsSegura\bin\Debug\DatosBL.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\WindowsSegura\bin\Debug\DatosBL.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\WindowsSegura\obj\Debug\WindowsSegura.Form1.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\SolucionDemoSEGURA\WindowsSegura\obj\Debug\WindowsSegura.csproj.CopyComplete

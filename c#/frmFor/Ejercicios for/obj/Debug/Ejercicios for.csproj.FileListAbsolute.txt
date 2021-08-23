@@ -1,0 +1,10 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frmFor\Ejercicios for\bin\Debug\Ejercicios for.exe.config
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frmFor\Ejercicios for\bin\Debug\Ejercicios for.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frmFor\Ejercicios for\bin\Debug\Ejercicios for.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frmFor\Ejercicios for\obj\Debug\Ejercicios for.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frmFor\Ejercicios for\obj\Debug\Ejercicios_for.Form1.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frmFor\Ejercicios for\obj\Debug\Ejercicios_for.Properties.Resources.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frmFor\Ejercicios for\obj\Debug\Ejercicios for.csproj.GenerateResource.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frmFor\Ejercicios for\obj\Debug\Ejercicios for.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frmFor\Ejercicios for\obj\Debug\Ejercicios for.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frmFor\Ejercicios for\obj\Debug\Ejercicios for.pdb

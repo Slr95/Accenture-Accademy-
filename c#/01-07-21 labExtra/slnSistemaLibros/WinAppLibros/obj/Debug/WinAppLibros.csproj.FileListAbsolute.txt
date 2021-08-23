@@ -1,0 +1,14 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\bin\Debug\WinAppLibros.exe.config
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\bin\Debug\WinAppLibros.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\bin\Debug\WinAppLibros.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\bin\Debug\Entidades.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\bin\Debug\Entidades.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\obj\Debug\WinAppLibros.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\obj\Debug\WinAppLibros.Form1.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\obj\Debug\WinAppLibros.frmColecciones.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\obj\Debug\WinAppLibros.Properties.Resources.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\obj\Debug\WinAppLibros.csproj.GenerateResource.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\obj\Debug\WinAppLibros.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\obj\Debug\WinAppLibros.csproj.CopyComplete
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\obj\Debug\WinAppLibros.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\WinAppLibros\obj\Debug\WinAppLibros.pdb

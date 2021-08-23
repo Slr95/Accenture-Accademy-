@@ -1,0 +1,33 @@
+https://drive.google.com/file/d/10tZele3jq4hA7Y40jXodbSJYk-sowAL4/view
+Labs: https://drive.google.com/drive/folders/1mR4ISpvKygtiiZDVrdaSJgXcLP8s8pHa
+
+1. Crear modelos en carpeta Models
+
+2. Crear Validaciones:
+Crear carpeta > Validations > MiClaseValidadora > usar "public override TipoDato IsValid()" > retornar true o false
+
+3. Instalar EF (6.2)
+
+4. Crear clase especial con herencia a DbContext
+
+5. Crear la cadena de conexión con la nueva base de datos:
+en Web.config >  connectionStrings > add name="KeyDB" dejar solo KeyDB
+
+6. Agregar migraciones:
+Tools > PM Console > (enable-migrations | add-migration MiMigracion | update-database)
+
+7. Crear administradores de datos:
+Crear carpeta Repository > Clase AdminMiModelo (aquí van los métodos de estos modelos) > ponerlas como public static class y a todos los métodos
+
+8. Agregar controladores:
+En carpeta Controllers > Add > Controller > MiModeloController
+
+9. Agregar vistas: ir a la acción en el controlador > click derecho > Add View
+** SI ME PASAN LAS VISTAS:
+Template:  Empty | Model class: ModeloAlQuePertenece | Data context class: mi clase especial de DbContext
+** SI LAS HAGO YO:
+Index	> Template: List Detalle	> Template: Details
+Crear	> Template: Create
+Eliminar	> Template: Delete
+Editar	> Template: Edit
+

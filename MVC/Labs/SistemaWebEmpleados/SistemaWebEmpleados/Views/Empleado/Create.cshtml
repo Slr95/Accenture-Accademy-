@@ -1,0 +1,47 @@
+﻿@model SistemaWebEmpleados.Models.Empleado
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+    <div>
+        <h2>Agregar Empleado</h2>
+
+        @using (Html.BeginForm("Create", "Empleado", FormMethod.Post))
+        {
+            <p>
+                @Html.LabelFor(model => model.Nombre):
+                @Html.EditorFor(model => model.Nombre)
+                @Html.ValidationMessageFor(model => model.Nombre)
+            </p>
+
+            <p>
+                @Html.LabelFor(model => model.Apellido):
+                @Html.EditorFor(model => model.Apellido)
+                @Html.ValidationMessageFor(model => model.Apellido)
+            </p>
+
+            <p>
+                @Html.LabelFor(model => model.DNI):
+                @Html.EditorFor(model => model.DNI)
+                @Html.ValidationMessageFor(model => model.DNI)
+            </p>
+            <p>
+                @Html.LabelFor(model => model.Email):
+                @Html.EditorFor(model => model.Email)
+                @Html.ValidationMessageFor(model => model.Email)
+            </p>
+            <input type="submit" value="Create" />
+            @Html.ActionLink("Back to List", "Index")
+        }
+    </div>
+</body>
+</html>

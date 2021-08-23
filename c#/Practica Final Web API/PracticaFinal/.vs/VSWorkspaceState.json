@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Datos\\bin",
+    "\\Datos\\bin\\Release",
+    "\\Datos\\obj",
+    "\\Datos\\obj\\Debug",
+    "\\Datos\\obj\\Debug\\TempPE",
+    "\\Datos\\obj\\Release",
+    "\\Datos\\Properties",
+    "\\Forms",
+    "\\PracticaFinal",
+    "\\PracticaFinal\\Migrations"
+  ],
+  "SelectedNode": "\\PracticaFinal\\Migrations\\20210712190543_cinco.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}

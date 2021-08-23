@@ -1,0 +1,3 @@
+-metodo que traiga todo con datareader
+-metodo que traiga por id(dataTable)
+-dos metodos de modificacion en dos capas

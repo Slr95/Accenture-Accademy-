@@ -1,0 +1,3 @@
+Iniciar el live project: ng server
+Crear nueva carpeta de proyecto: ng new bikeproyecto
+Crear nueva carpeta module:ng g c /components/view-registration

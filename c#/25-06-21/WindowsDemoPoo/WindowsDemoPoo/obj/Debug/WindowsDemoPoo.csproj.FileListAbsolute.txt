@@ -1,0 +1,13 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\WindowsDemoPoo\bin\Debug\WindowsDemoPoo.exe.config
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\WindowsDemoPoo\bin\Debug\WindowsDemoPoo.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\WindowsDemoPoo\bin\Debug\WindowsDemoPoo.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\WindowsDemoPoo\obj\Debug\WindowsDemoPoo.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\WindowsDemoPoo\obj\Debug\WindowsDemoPoo.Properties.Resources.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\WindowsDemoPoo\obj\Debug\WindowsDemoPoo.csproj.GenerateResource.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\WindowsDemoPoo\obj\Debug\WindowsDemoPoo.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\WindowsDemoPoo\obj\Debug\WindowsDemoPoo.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\WindowsDemoPoo\obj\Debug\WindowsDemoPoo.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\WindowsDemoPoo\obj\Debug\WindowsDemoPoo.Form1.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\WindowsDemoPoo\bin\Debug\Entidades.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\WindowsDemoPoo\bin\Debug\Entidades.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\25-06-21\WindowsDemoPoo\WindowsDemoPoo\obj\Debug\WindowsDemoPoo.csproj.CopyComplete

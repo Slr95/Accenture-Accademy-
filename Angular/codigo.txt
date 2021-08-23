@@ -1,0 +1,231 @@
+filterimages.pipe.ts
+
+import { Pipe, PipeTransform } from '@angular/core';
+
+@Pipe({
+  name: 'filterimages'
+})
+export class FilterimagesPipe implements PipeTransform {
+
+  transform(items: any[], bike: string): any {
+
+    if (bike === 'all') {
+      return items;
+    } else {
+      return items.filter(item => {
+        return item.brand === bike;
+      });
+    }
+
+  }
+  }
+
+
+//******************************************** image-gallery.components.css
+
+.img {
+  margin: 6px 6px;
+  border: 4px solid #eee;
+  box-shadow: rgb(224, 199, 199) 1px 1px 8px 1px;
+  cursor: pointer;
+}
+.modal-content {
+  width: 1000px;
+}
+
+li {
+  display: inline;
+}
+
+ul {
+  padding: 0;
+  width: 1200px;
+  margin: 20px auto;
+
+}
+
+
+
+
+***************************************************************** Image-Gallery.component.ts
+
+import { Component, OnInit } from '@angular/core';
+import { ImagesService } from 'src/app/services/images.service';
+
+@Component({
+  selector: 'app-image-gallery',
+  templateUrl: './image-gallery.component.html',
+  styleUrls: ['./image-gallery.component.css']
+})
+export class ImageGalleryComponent implements OnInit {
+  allImages: any[] = [];
+  filterBy: string = 'all';
+
+  constructor(private imageService: ImagesService) {
+    this.allImages = this.imageService.getImages();
+    console.log(this.allImages);
+  }
+
+  ngOnInit(): void {
+  }
+
+}
+
+export interface bicicleta{
+  id: number;
+  brand: string ;
+  url: string;
+}
+
+
+
+***************************************************************Image-Gallery.component.html
+<div>
+  <div class="row">
+    <div class="col-sm-12 btn">
+          Image Gallery
+    </div>
+  </div>
+  <div class="row" style="margin-top: 10px; margin-bottom: 10px;">
+    <div class="col-sm-1">
+    </div>
+     <div class="col-sm-2">
+       <button class="btn btn-success" (click)="filterBy='all'">All Models</button>
+     </div>
+     <div class="col-sm-2">
+      <button class="btn btn-success" (click)="filterBy='adultorrc'">Para Adultos</button>
+    </div>
+    <div class="col-sm-2">
+      <button class="btn btn-success" (click)="filterBy='bkeco'">Economicas</button>
+    </div>
+    <div class="col-sm-2">
+      <button class="btn btn-success" (click)="filterBy='bkmotor'">Con Motor</button>
+    </div>
+    <div class="col-sm-2">
+      <button class="btn btn-success" (click)="filterBy='juniorc'">Para niños</button>
+    </div>
+    <div class="col-sm-1">
+    </div>
+  </div>
+
+<div class="row">
+   <ul>
+     <li *ngFor="let img of ( allImages | filterimages: filterBy)">
+         <img class="img" src="{{ img.url }}" width="240" height="170">
+     </li>
+   </ul>
+</div>
+</div>
+
+
+
+************************************************************app.module.ts
+
+import { NgModule } from '@angular/core';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { BrowserModule } from '@angular/platform-browser';
+
+import { AppRoutingModule } from './app-routing.module';
+import { AppComponent } from './app.component';
+import { AboutComponent } from './components/about/about.component';
+import { AdminComponent } from './components/admin/admin.component';
+import { HomeComponent } from './components/home/home.component';
+import { ImageGalleryComponent } from './components/image-gallery/image-gallery.component';
+import { ImageDetailsComponent } from './components/image-details/image-details.component';
+import { ViewRegistrationComponent } from './components/view-registration/view-registration.component';
+import { FilterimagesPipe } from './filterimages.pipe';
+import { HttpClientModule } from '@angular/common/http';
+
+
+@NgModule({
+  declarations: [
+    AppComponent,
+    AboutComponent,
+    AdminComponent,
+    HomeComponent,
+    ImageGalleryComponent,
+    ImageDetailsComponent,
+    ViewRegistrationComponent,
+    FilterimagesPipe
+  ],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    FormsModule,
+    ReactiveFormsModule,
+    HttpClientModule
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+export class AppModule { }
+
+
+
+
+
+********************************************  BikeService
+import { HttpClient } from '@angular/common/http';
+import { Injectable } from '@angular/core';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class BikeService {
+
+  //inyectamos un objeto del tipo httpClient
+  constructor(private http: HttpClient) { }
+
+  // este metodo nos retornara un JSON con todas las bicicletas cargadas en
+  // la base de datos sqlite de nuestro backEnd(API REST)
+  getBikes(){
+    return this.http.get('http://localhost:9090/api/v1/bikes');
+  }
+
+}
+
+
+*************************************************** admin.component.ts
+
+
+
+
+import { Component, OnInit } from '@angular/core';
+import { BikeService } from 'src/app/services/bike.service';
+
+@Component({
+  selector: 'app-admin',
+  templateUrl: './admin.component.html',
+  styleUrls: ['./admin.component.css']
+})
+export class AdminComponent implements OnInit {
+  public bikes: any; //este atributo conntendra la respuesta del servicio de bikes
+  constructor(private bikeService: BikeService) { }
+
+  ngOnInit(): void {
+    this.getAllBikes();
+  }
+
+
+  getAllBikes() {
+    this.bikeService.getBikes().subscribe(
+      data => {
+          this.bikes = data; //capturo el json de la respuesta del API y lo guardo en un atributo
+      },
+      err => {
+        console.log("algo salio mal cuando se intento hacer el request al API REST")
+        console.error(err) }
+    );
+  }
+}
+
+
+
+**********************************************app.component.html
+
+<!-- <app-home></app-home> -->
+<!--
+<app-image-gallery></app-image-gallery> -->
+
+<app-admin></app-admin>
+<router-outlet></router-outlet>

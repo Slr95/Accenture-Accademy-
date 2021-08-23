@@ -1,0 +1,37 @@
+﻿@model SistemaWebAlumnos.Models.Alumno
+<p> @Html.ActionLink("Create New", "Create") </p>
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Alumnos</legend>
+        <div> @Html.LabelFor(model => model.Nombre) </div>
+        <div>
+            @Html.EditorFor(model => model.Nombre)
+            @Html.ValidationMessageFor(Model => Model.Nombre)
+        </div>
+        <div> @Html.LabelFor(model => model.Apellido) </div>
+        <div>
+            <div>
+                @Html.EditorFor(model => model.Apellido)
+                @Html.ValidationMessageFor(Model => Model.Apellido)
+            </div>
+            <div> @Html.LabelFor(model => model.Dni) </div>
+            <div>
+                @Html.EditorFor(model => model.Dni)
+                @Html.ValidationMessageFor(Model => Model.Dni)
+            </div>
+            <div> @Html.LabelFor(model => model.Email) </div>
+            <div>
+                <d>
+                @Html.EditorFor(model => model.Email)
+                @Html.ValidationMessageFor(Model => Model.Email)
+                </d>
+            </div>
+        </div>
+            <p> <input type="submit" value="Create" /> </p>
+    </fieldset>
+}
+<div> @Html.ActionLink("Back to List", "Index") </div>
+
+

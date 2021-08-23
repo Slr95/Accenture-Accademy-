@@ -1,0 +1,7 @@
+Practica final proyecto web con libreria:
+
+-Traer todo
+-Filtrar
+-Insertar
+
+Incluye parametros

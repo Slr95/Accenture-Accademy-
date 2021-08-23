@@ -1,0 +1,3 @@
+Cadena de conexion PUBS: Data Source=DESKTOP-7S67QET;Initial Catalog=pubs;Integrated Security=True
+
+Cadena de conexion Northwind: Data Source=DESKTOP-7S67QET;Initial Catalog=Northwind;Integrated Security=True

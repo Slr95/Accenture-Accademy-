@@ -1,0 +1,13 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\slnSistemaLibros\bin\Debug\slnSistemaLibros.exe.config
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\slnSistemaLibros\bin\Debug\slnSistemaLibros.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\slnSistemaLibros\bin\Debug\slnSistemaLibros.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\slnSistemaLibros\bin\Debug\Entidades.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\slnSistemaLibros\bin\Debug\Entidades.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\slnSistemaLibros\obj\Debug\slnSistemaLibros.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\slnSistemaLibros\obj\Debug\slnSistemaLibros.Form1.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\slnSistemaLibros\obj\Debug\slnSistemaLibros.Properties.Resources.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\slnSistemaLibros\obj\Debug\slnSistemaLibros.csproj.GenerateResource.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\slnSistemaLibros\obj\Debug\slnSistemaLibros.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\slnSistemaLibros\obj\Debug\slnSistemaLibros.csproj.CopyComplete
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\slnSistemaLibros\obj\Debug\slnSistemaLibros.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\01-07-21 labExtra\slnSistemaLibros\slnSistemaLibros\obj\Debug\slnSistemaLibros.pdb

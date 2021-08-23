@@ -1,0 +1,31 @@
+-MODULO 1: VARIABLES - FUNCIONES Y METODOS
+-MODULO 2: HERENCIA - SOBRECARGA
+-MODULO 3: ACCESIBILIDAD - CONSTRUCTORES
+-MODULO 4: RELACIONES ENTRE OBJETOS - COLECCIONES - (ENUMERACIONES POR NUESTRA CUENTA)
+-MODULO 5: ARQUITECTURA
+-MODULO 6: NADA
+-MODULO 7: NADA
+-MODULO 8: ACCESO A DATOS (LUNES)
+
+-Carpetas de la profe en drive
+
+https://drive.google.com/drive/folders/1lIYLTpipxLUAUAG32tk6FyVuBrw8ZpaW?usp=sharing
+lab integrador: https://drive.google.com/file/d/1gceL3QAFJteXzCbrSuluPxRtYRUDVR5g/view?usp=sharing
+Práctica de lista: https://docs.google.com/document/d/1xT6gHyWYfiLuhtnJkGEapJTbaRVLkBrz/edit
+Relacion entre objetos: https://docs.google.com/document/d/1RyBSFgxViSqhGAcS7ZBAD4D9T-PVwSsU/edit
+
+
+Proyecto integrador sistema ventas:
+
+1
+https://drive.google.com/file/d/1yMU1V5zsTk0mq6S30wGMcLFP-1BO2XCY/view?usp=sharing
+2
+https://drive.google.com/file/d/1FG0FOCIJdBUWhzbSEFA5rTf7WHZshs5F/view?usp=sharing
+3
+https://docs.google.com/document/d/14l_3KqYY4K21au_bDTcCPEhjFt9KoYoI/edit
+4
+https://docs.google.com/document/d/1dpuvKtlXJBuLsNHCACiITSs7WZ_6_dCG/edit
+5
+https://docs.google.com/document/d/1PNkbXfu2_8IGQCjrmtCx7V4_fifeqpxG/edit#heading=h.gjdgxs
+
+

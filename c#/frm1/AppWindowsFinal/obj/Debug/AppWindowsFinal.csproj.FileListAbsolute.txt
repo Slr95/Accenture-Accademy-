@@ -1,0 +1,10 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frm1\AppWindowsFinal\bin\Debug\AppWindowsFinal.exe.config
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frm1\AppWindowsFinal\bin\Debug\AppWindowsFinal.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frm1\AppWindowsFinal\bin\Debug\AppWindowsFinal.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frm1\AppWindowsFinal\obj\Debug\AppWindowsFinal.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frm1\AppWindowsFinal\obj\Debug\AppWindowsFinal.Form1.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frm1\AppWindowsFinal\obj\Debug\AppWindowsFinal.Properties.Resources.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frm1\AppWindowsFinal\obj\Debug\AppWindowsFinal.csproj.GenerateResource.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frm1\AppWindowsFinal\obj\Debug\AppWindowsFinal.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frm1\AppWindowsFinal\obj\Debug\AppWindowsFinal.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\frm1\AppWindowsFinal\obj\Debug\AppWindowsFinal.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAppADONET", "WindowsAppADONET\WindowsAppADONET.csproj", "{F0943394-8904-403D-BDAE-5B110E9FD0BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{45EFAD30-3A72-46D5-BC56-C200F1A30061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0943394-8904-403D-BDAE-5B110E9FD0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0943394-8904-403D-BDAE-5B110E9FD0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0943394-8904-403D-BDAE-5B110E9FD0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0943394-8904-403D-BDAE-5B110E9FD0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45EFAD30-3A72-46D5-BC56-C200F1A30061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EFAD30-3A72-46D5-BC56-C200F1A30061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EFAD30-3A72-46D5-BC56-C200F1A30061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EFAD30-3A72-46D5-BC56-C200F1A30061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33622632-F8A4-41CF-9A1A-FD079F723EB0}
+	EndGlobalSection
+EndGlobal

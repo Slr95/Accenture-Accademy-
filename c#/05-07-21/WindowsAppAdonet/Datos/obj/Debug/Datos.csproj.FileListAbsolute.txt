@@ -1,0 +1,7 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\Datos\bin\Debug\Datos.dll.config
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\Datos\bin\Debug\Datos.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\Datos\bin\Debug\Datos.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\Datos\obj\Debug\Datos.dll
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\05-07-21\WindowsAppAdonet\Datos\obj\Debug\Datos.pdb

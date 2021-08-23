@@ -1,0 +1,13 @@
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\SolucionWindows\WindowsDemo\bin\Debug\WindowsDemo.exe.config
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\SolucionWindows\WindowsDemo\bin\Debug\WindowsDemo.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\SolucionWindows\WindowsDemo\bin\Debug\WindowsDemo.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\SolucionWindows\WindowsDemo\obj\Debug\WindowsDemo.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\SolucionWindows\WindowsDemo\obj\Debug\WindowsDemo.frmAlumno.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\SolucionWindows\WindowsDemo\obj\Debug\WindowsDemo.Properties.Resources.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\SolucionWindows\WindowsDemo\obj\Debug\WindowsDemo.csproj.GenerateResource.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\SolucionWindows\WindowsDemo\obj\Debug\WindowsDemo.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\SolucionWindows\WindowsDemo\obj\Debug\WindowsDemo.exe
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\SolucionWindows\WindowsDemo\obj\Debug\WindowsDemo.pdb
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\SolucionWindows\WindowsDemo\obj\Debug\WindowsDemo.frmLogin.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\SolucionWindows\WindowsDemo\obj\Debug\WindowsDemo.frmEjemplos.resources
+C:\Users\renzo\Desktop\asd\accenture accademy\c#\SolucionWindows\WindowsDemo\obj\Debug\WindowsDemo.frmMetodos.resources

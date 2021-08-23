@@ -1,0 +1,20 @@
+﻿@model IEnumerable<SistemaWebAlumnos.Models.Alumno>
+<table>
+    <tr>
+        <th> @Html.DisplayNameFor(model => model.Nombre) </th>
+        <th> @Html.DisplayNameFor(model => model.Apellido) </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td> @Html.DisplayFor(modelItem => item.Nombre) </td>
+            <td> @Html.DisplayFor(modelItem => item.Apellido) </td>
+            <td>
+                @Html.ActionLink("Details", "Detail", new { id = item.AlumnoId }) @Html.ActionLink("Delete", "Delete", new { id = item.AlumnoId })
+            </td>
+        </tr>
+
+    }
+</table>
+
+

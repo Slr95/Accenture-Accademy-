@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box sizing</title>
+    <style>
+        .box-sizing-personalizado {
+            box-sizing: border-box;
+        }
+
+        .caja {
+            width: 200px;
+            height: 70ps;
+            background-color: #484;
+            margin: 5px;
+            font-size: 20px;
+        }
+
+        .borde {
+            border: 5px solid #555;
+        }
+
+        .p20 {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Box sizing</h1>
+
+    <h2>Valor por defecto</h2>
+    <div class="caja" id="caja1">Caja 9 - Lorem ipsum dolor sit.</div>
+    <div class="caja borde" id="caja2">Caja 10 - Lorem ipsum dolor sit.</div>
+    <div class="caja p20" id="caja3">Caja 11 - Lorem ipsum dolor sit.</div>
+    <div class="caja borde p20" id="caja4">Caja 12 - Lorem ipsum dolor sit.</div>
+
+    <h3>border-box</h3>
+    <div class="box-sizing-personalizado caja" id="caja5">Caja 13 - Lorem ipsum dolor sit.</div>
+    <div class="box-sizing-personalizado caja borde" id="caja6">Caja 14 - Lorem ipsum dolor sit.</div>
+    <div class="box-sizing-personalizado caja p20" id="caja7">Caja 15 - Lorem ipsum dolor sit.</div>
+    <div class="box-sizing-personalizado caja borde p20" id="caja8">Caja 16 - Lorem ipsum dolor sit.</div>
+
+</body>
+</html>

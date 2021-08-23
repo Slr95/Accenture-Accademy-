@@ -1,0 +1,9 @@
+-Hacer una tabla que muestre los precios del gimnasio al final
+-agregar algunos strong a los <p>
+-agregar gradientes
+-corregir el shadow-box
+-editar el icono de whatsapp(ver foto
+-ver las listas en el footer
+-Ver menu
+-ver media
+-ver responsive
